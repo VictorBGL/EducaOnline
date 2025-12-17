@@ -8,12 +8,9 @@ O projeto foi desenvolvido como parte do MBA **DevXpert Full Stack .NET**, no m√
 
 ---
 
-## **2. Autores**
+## **2. Autor**
 
-- **Jairo Bionez**
 - **Victor Lino**
-- **Fernando Vin√≠cius Valim Motta**
-- **Ozias Manoel Costa Neto**
 
 ---
 
